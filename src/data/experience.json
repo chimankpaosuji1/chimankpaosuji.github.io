@@ -1,0 +1,47 @@
+{
+    "experience": [
+        {
+            "date": "2022",
+            "title": "Senior Software Developer",
+            "years": "Nov 2022 – Prest",
+            "company": "Ultainfinity Global Group, London UK"
+        },
+        {
+            "date": "2022",
+            "title": "Senior Software Developer",
+            "years": "Mar 2022 – June 2023",
+            "company": "Automedsys, Georgia USA"
+        },
+        {
+            "date": "2021",
+            "title": "Chief Technology Officer",
+            "years": "Oct 2021 – Feb 2022",
+            "company": "The House of Sounds, Lagos"
+        },
+        {
+            "date": "2020",
+            "title": "Senior FrontEnd Developer",
+            "years": "Sept 2020 – Oct 2021",
+            "company": "SwiftEnd, Lagos Nigeria"
+        },
+        {
+            "date": "2020",
+            "title": " Chief Technology Officer",
+            "years": " Jan 2020 – Sept 2020",
+            "company": "AlabamarketB2B, Lagos Nigeria"
+        },
+        {
+            "date": "2017",
+            "title": "ICT Manager",
+            "years": " Apr 2017 – Dec 2019",
+            "company": "AERA United States Consulate"
+        },
+        {
+            "date": "2015",
+            "title": "Fullstack Developer",
+            "years": " July 2015 – April 2017",
+            "company": "Webthinkers Nigerian Limited"
+        }
+        
+    ]
+}

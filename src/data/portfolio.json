@@ -1,0 +1,52 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/airdrop.png",
+            "title": "Ultainfinity Airdrop & Bounty",
+            "description": "React, JSX, React-Bootstrap",
+            "url": "https://ultainfinityairdrop.com"
+        },
+        {
+            "cover": "/portfolio/1/gni.png",
+            "title": "Great Nigerian Insurance",
+            "description": "PHP, CSS, HTML",
+            "url": "https://greatnigeriaplc.com/"
+        },
+        {
+            "cover": "/portfolio/1/gqlagos.png",
+            "title": "GQLagos US Consulate",
+            "description": "E-Commerce, Wordpress, CSS",
+            "url": "http://gqlagos.com"
+        },
+        {
+            "cover": "/portfolio/1/hernalytics.png",
+            "title": "Hernalytics",
+            "description": "React, JSX, Bootstrap, Jest",
+            "url": "https://creative-kangaroo-2d2104.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/1/swiftend.png",
+            "title": "Swiftend",
+            "description": "React, TypeScript, SASS, Jest",
+            "url": "https://swiftend.com"
+        },
+        {
+            "cover": "/portfolio/1/those.png",
+            "title": "Those App",
+            "description": "Angular, TyeScript, SASS",
+            "url": "https://www.those.app"
+        },
+        {
+            "cover": "/portfolio/1/brochure.png",
+            "title": "Ultainfinity Global Group",
+            "description": "React, TypeScript, SASS",
+            "url": "https://brochure.ultainfinityglobalgroup.com/"
+        },
+        {
+            "cover": "/portfolio/1/amary.png",
+            "title": "Amaryllis Naturel + 3 Mart",
+            "description": "E-Commerce, Wordpress, CSS",
+            "url": "https://amaryllisnaturel.com/"
+        }
+    ]
+}
