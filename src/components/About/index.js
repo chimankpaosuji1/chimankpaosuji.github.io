@@ -8,9 +8,7 @@ import {
   faReact,
 } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
-import { Link } from 'react-router-dom'
 import AnimatedLetters from '../AnimatedLetters'
-import picture from '../../assets/images/logoP.PNG'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.scss'
 import { StarsCanvas } from '../canvas'
