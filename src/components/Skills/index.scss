@@ -237,28 +237,10 @@
 
 @media screen and (max-width: 600px) {
   .stage-cube-cont {
+    display: none;
     .exp-box {
       display: none;
-      line-height: 50px;
-
-      .details {
-        line-height: normal;
-
-        .title {
-          font-size: 16px;
-
-        }
-
-        .company {
-          font-size: 14px;
-        }
-      }
-
-      .year {
-        font-size: 14px !important;
-
-      }
-
+      
     }
   }
 }
