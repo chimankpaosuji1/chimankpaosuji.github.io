@@ -225,7 +225,7 @@
 // }
 
 @media screen and (max-width: 1200px) {
-  .stage-cube-cont {
+  .stage-cube-contS {
     position: initial !important;
     width: 100% !important;
     height: 0;
@@ -236,11 +236,29 @@
 }
 
 @media screen and (max-width: 600px) {
-  .stage-cube-cont {
-    display: none !important;
+  .stage-cube-contS {
     .exp-box {
-      display: none !important;
-      
+      display: none;
+      line-height: 50px;
+
+      .details {
+        line-height: normal;
+
+        .title {
+          font-size: 16px;
+
+        }
+
+        .company {
+          font-size: 14px;
+        }
+      }
+
+      .year {
+        font-size: 14px !important;
+
+      }
+
     }
   }
 }
