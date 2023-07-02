@@ -230,18 +230,35 @@
     width: 100% !important;
     height: 0;
     overflow: visible !important;
-    margin-top: -12rem !important;
+    margin-top: -8rem !important;
   }
 
 }
 
 @media screen and (max-width: 600px) {
+
+  .text-zone {
+    h1 {
+      text-align: justify;
+    }
+    p {
+      text-align: justify;
+    }
+  }
   .stage-cube-contS {
     .exp-box {
-      // display: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
       line-height: 50px;
+      gap: 2px;
 
       .details {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
         line-height: normal;
 
         .title {
@@ -255,6 +272,7 @@
       }
 
       .year {
+        margin-top: -1.5rem;
         font-size: 14px !important;
 
       }

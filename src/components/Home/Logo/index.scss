@@ -59,12 +59,28 @@
 
 @media screen and (max-width: 1200px) {
   .logo-container {
-    width: 30% !important;
+    width: 50% !important;
   }
   .svg {
-    margin: 8rem auto !important;    
+    margin: auto !important;    
   }
   .solid-logo {
     width: 100% !important;     
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .logo-container {
+    width: 80% !important;
+    
+  }
+
+  .svg {
+    margin: auto !important;
+  }
+
+  .solid-logo {
+    width: 100% !important;
+   
   }
 }
