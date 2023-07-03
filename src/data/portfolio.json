@@ -47,6 +47,30 @@
             "title": "Amaryllis Naturel + 3 Mart",
             "description": "E-Commerce, Wordpress, CSS",
             "url": "https://amaryllisnaturel.com/"
+        },
+        {
+            "cover": "/portfolio/1/those.png",
+            "title": "Those App",
+            "description": "Angular, TyeScript, SASS",
+            "url": "https://www.those.app"
+        },
+        {
+            "cover": "/portfolio/1/brochure.png",
+            "title": "Ultainfinity Global Group",
+            "description": "React, TypeScript, SASS",
+            "url": "https://brochure.ultainfinityglobalgroup.com/"
+        },
+        {
+            "cover": "/portfolio/1/amary.png",
+            "title": "Amaryllis Naturel + 3 Mart",
+            "description": "E-Commerce, Wordpress, CSS",
+            "url": "https://amaryllisnaturel.com/"
+        },
+        {
+            "cover": "/portfolio/1/those.png",
+            "title": "Those App",
+            "description": "Angular, TyeScript, SASS",
+            "url": "https://www.those.app"
         }
     ]
 }
