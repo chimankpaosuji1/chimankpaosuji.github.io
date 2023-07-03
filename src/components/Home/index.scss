@@ -184,3 +184,16 @@
     }
   
 }
+
+
+@media screen and (max-width: 600px) {
+  .home-page {
+    h1 {
+      font-size: 38px;
+
+      img {
+        width: 30px;
+      }
+    }
+  }
+}
