@@ -49,10 +49,10 @@
             "url": "https://amaryllisnaturel.com/"
         },
         {
-            "cover": "/portfolio/1/those.png",
-            "title": "Those App",
-            "description": "Angular, TyeScript, SASS",
-            "url": "https://www.those.app"
+            "cover": "/portfolio/1/dashboard.png",
+            "title": "Dashboard View",
+            "description": "HTML5, CSS3, JavasSript, Bootstrap",
+            "url": "https://chimankpaosuji1.github.io/dashboard-view/"
         },
         {
             "cover": "/portfolio/1/brochure.png",
