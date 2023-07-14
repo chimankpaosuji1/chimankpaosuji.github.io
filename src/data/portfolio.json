@@ -55,22 +55,22 @@
             "url": "https://chimankpaosuji1.github.io/dashboard-view/"
         },
         {
-            "cover": "/portfolio/1/brochure.png",
-            "title": "Ultainfinity Global Group",
-            "description": "React, TypeScript, SASS",
-            "url": "https://brochure.ultainfinityglobalgroup.com/"
+            "cover": "/portfolio/1/automedsys.png",
+            "title": "Automedsys Medical MGT Software",
+            "description": "React, TypeScript, MaterialUI",
+            "url": "https://automedsys.net/"
         },
         {
-            "cover": "/portfolio/1/amary.png",
-            "title": "Amaryllis Naturel + 3 Mart",
-            "description": "E-Commerce, Wordpress, CSS",
-            "url": "https://amaryllisnaturel.com/"
+            "cover": "/portfolio/1/total.png",
+            "title": "Total Nigeria E&P",
+            "description": "HTML5, CSS, JavaScript, PHP-Laravel",
+            "url": "https://tepngcpfa.com/"
         },
         {
-            "cover": "/portfolio/1/those.png",
-            "title": "Those App",
-            "description": "Angular, TyeScript, SASS",
-            "url": "https://www.those.app"
+            "cover": "/portfolio/1/telkom.png",
+            "title": "Telkom SIM Registration",
+            "description": "VueJS, Bootstrap, CSS, Javascript",
+            "url": "https://apps.telkom.co.za/alpha/public/register"
         }
     ]
 }
