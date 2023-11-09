@@ -101,7 +101,7 @@ const Contact = () => {
           Admiralty Homes Estate, <br />
           Lekki Phase 2 <br />
           <br />
-          <span>chimankpaosuji2@gmail.com</span>
+          <span>chimankpaosuji@gmail.com</span>
         </div>
         <div className="map-wrap">
           <MapContainer center={[6.426238, 3.525494]} zoom={13}>
