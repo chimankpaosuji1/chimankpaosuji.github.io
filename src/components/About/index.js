@@ -61,7 +61,7 @@ const About = () => {
             photography enthusiast, and tech-obsessed!!!
           </p>
           <a
-            href="https://drive.google.com/file/d/13IbdiP62FkynkKnCRNE2hTlxt6xdu1L8/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1p-w2NcwXqWoRj3MhBXief_XyrM5ysXcC/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             download
