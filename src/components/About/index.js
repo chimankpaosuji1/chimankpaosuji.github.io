@@ -38,7 +38,7 @@ const About = () => {
             />
           </h1>
           <p>
-            Senior Software Engineer with 7+ years in analysis, design,
+            Senior Software Engineer with 8+ years in analysis, design,
             development, testing and implementation of various Internet-based
             applications. Experienced with all stages of development cycle for
             dynamic web projects. Solutions are based on the Microsoft stack

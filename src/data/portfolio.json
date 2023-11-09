@@ -19,11 +19,12 @@
             "url": "https://automedsys.net/"
         },
         {
-            "cover": "/portfolio/1/hernalytics.png",
-            "title": "Hernalytics",
-            "description": "React, JSX, Bootstrap, Jest",
-            "url": "https://creative-kangaroo-2d2104.netlify.app/"
+            "cover": "/portfolio/1/beylearning.png",
+            "title": "Beylearning",
+            "description": "E-Commerce, Wordpress, CSS",
+            "url": "https://beylearning.com"
         },
+        
         {
             "cover": "/portfolio/1/swiftend.png",
             "title": "Swiftend",
@@ -55,10 +56,10 @@
             "url": "https://chimankpaosuji1.github.io/dashboard-view/"
         },
         {
-            "cover": "/portfolio/1/automedsys.png",
-            "title": "Automedsys Medical MGT Software",
-            "description": "React, TypeScript, MaterialUI",
-            "url": "https://automedsys.net/"
+            "cover": "/portfolio/1/hernalytics.png",
+            "title": "Hernalytics",
+            "description": "React, JSX, Bootstrap, Jest",
+            "url": "https://creative-kangaroo-2d2104.netlify.app/"
         },
         {
             "cover": "/portfolio/1/total.png",
@@ -71,6 +72,12 @@
             "title": "Telkom SIM Registration",
             "description": "VueJS, Bootstrap, CSS, Javascript",
             "url": "https://apps.telkom.co.za/alpha/public/register"
+        },
+        {
+            "cover": "/portfolio/1/gqlagos.png",
+            "title": "Gqlagos US Glub",
+            "description": "E-Commerce, Wordpress, CSS",
+            "url": "https://gqlagos.com"
         }
     ]
 }
