@@ -1,6 +1,6 @@
 import './index.scss'
-import LogoS from '../../../assets/images/logop.HEIC'
-import picture from '../../../assets/images/logoP.PNG'
+import LogoS from '../../../assets/images/picture.jpg'
+import picture from '../../../assets/images/picture.jpg'
 
 const Logo = () => {
 
