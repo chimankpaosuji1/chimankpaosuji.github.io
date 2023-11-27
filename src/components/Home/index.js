@@ -93,8 +93,7 @@ const Home = () => {
             />
           </h1>
           <h2>
-            Front End Developer / Back End Developer / JavaScript Expert /
-            Youtuber
+            FullStack Developer / JavaScript Expert / Beylearning / Youtuber
           </h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME

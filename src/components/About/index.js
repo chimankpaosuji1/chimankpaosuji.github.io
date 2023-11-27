@@ -13,6 +13,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.scss'
 import { StarsCanvas } from '../canvas'
 
+
 const About = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
 

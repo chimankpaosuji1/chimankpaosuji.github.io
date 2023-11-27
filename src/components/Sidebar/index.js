@@ -14,6 +14,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons'
 
 import {
+  faBold,
   faHome,
   faUser,
   faEnvelope,
@@ -86,6 +87,19 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
+            href="https://beylearning.com/course-archive/?keyword=&tutor-course-filter-category=20&current_page=1&action=tutor_course_filter_ajax"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FontAwesomeIcon
+              icon={faBold}
+              color="#4d4d4e"
+              className="anchor-icon"
+            />
+          </a>
+        </li>
+        <li>
+          <a
             href="https://www.linkedin.com/in/chimankpa-osuji-296634101/"
             target="_blank"
             rel="noreferrer"
@@ -111,7 +125,11 @@ const Sidebar = () => {
           </a>
         </li>
         <li>
-          <a href="https://www.youtube.com/@chimankpaosuji" rel="noreferrer" target="_blank">
+          <a
+            href="https://www.youtube.com/@chimankpaosuji"
+            rel="noreferrer"
+            target="_blank"
+          >
             <FontAwesomeIcon
               icon={faYoutube}
               color="#4d4d4e"
