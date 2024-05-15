@@ -1,10 +1,56 @@
 {
     "portfolio": [
         {
+            "cover": "/portfolio/1/techkraft.png",
+            "title": "Techkraft Solutions Limited",
+            "description": "PHP, Laravel, CSS",
+            "url": "https://techkraftsolutions.ng/"
+        },
+        {
+            "cover": "/portfolio/1/ivycrest.png",
+            "title": "Ivy Crest Solicitors",
+            "description": "Wordpress, CSS",
+            "url": "https://ivycrestsolicitors.com/"
+        },
+        {
+            "cover": "/portfolio/1/gqlagos.png",
+            "title": "Gqlagos US Glub",
+            "description": "E-Commerce, Wordpress, CSS",
+            "url": "https://gqlagos.com"
+        },
+          {
+            "cover": "/portfolio/1/mticbiac.png",
+            "title": "MY TRAUMA IS CHRONIC, BUT I AM ICONIC!!",
+            "description": "Angular, SASS, Nextjs",
+            "url": "https://www.mticbiai.org.uk/"
+        },
+        
+        {
+            "cover": "/portfolio/1/beylearning.png",
+            "title": "Beylearning",
+            "description": "E-Commerce, Wordpress, CSS",
+            "url": "https://beylearning.com"
+        },
+        
+        {
             "cover": "/portfolio/1/airdrop.png",
             "title": "Ultainfinity Airdrop & Bounty",
             "description": "React, JSX, React-Bootstrap",
             "url": "https://ultainfinityairdrop.com"
+        },
+
+        
+        {
+            "cover": "/portfolio/1/homo.png",
+            "title": "Hodboss Empire",
+            "description": "Wordpress, CSS",
+            "url": "https://www.hodbossempire.com/"
+        },
+        {
+            "cover": "/portfolio/1/amary.png",
+            "title": "Amaryllis Naturel + 3 Mart",
+            "description": "E-Commerce, Wordpress, CSS",
+            "url": "https://amaryllisnaturel.com/"
         },
         {
             "cover": "/portfolio/1/gni.png",
@@ -18,13 +64,6 @@
             "description": "React, TypeScript, MaterialUI",
             "url": "https://automedsys.net/"
         },
-        {
-            "cover": "/portfolio/1/beylearning.png",
-            "title": "Beylearning",
-            "description": "E-Commerce, Wordpress, CSS",
-            "url": "https://beylearning.com"
-        },
-        
         {
             "cover": "/portfolio/1/swiftend.png",
             "title": "Swiftend",
@@ -43,12 +82,7 @@
             "description": "React, TypeScript, SASS",
             "url": "https://brochure.ultainfinityglobalgroup.com/"
         },
-        {
-            "cover": "/portfolio/1/amary.png",
-            "title": "Amaryllis Naturel + 3 Mart",
-            "description": "E-Commerce, Wordpress, CSS",
-            "url": "https://amaryllisnaturel.com/"
-        },
+        
         {
             "cover": "/portfolio/1/dashboard.png",
             "title": "Dashboard View",
@@ -72,12 +106,6 @@
             "title": "Telkom SIM Registration",
             "description": "VueJS, Bootstrap, CSS, Javascript",
             "url": "https://apps.telkom.co.za/alpha/public/register"
-        },
-        {
-            "cover": "/portfolio/1/gqlagos.png",
-            "title": "Gqlagos US Glub",
-            "description": "E-Commerce, Wordpress, CSS",
-            "url": "https://gqlagos.com"
         }
     ]
 }
